@@ -1,4 +1,4 @@
-Operating System Prog3
+# Operating System Prog.3
 
 A synchronized production simulation system based on the Producer-Consumer Model, managing concurrent resource allocation among multiple worker threads.
 
