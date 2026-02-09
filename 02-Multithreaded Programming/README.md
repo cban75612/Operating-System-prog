@@ -1,4 +1,4 @@
-Operating-System-Prog2
+Operating System Prog2
 
 Multithreaded text analysis system utilizing POSIX Threads to perform high-performance similarity calculations across large datasets.
 
